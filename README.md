@@ -1,7 +1,9 @@
-# wordpress Python Library
+# Wordpress Python Library
 
 The `wordpress` Python library provides a simple interface to interact with the WordPress REST API. It allows you to manage various aspects of your WordPress site, including pages, posts, categories, media, users, and comments.
 
+## Download stats
+[![Downloads](https://static.pepy.tech/badge/Wordpress)](https://pepy.tech/project/Wordpress)
 ## Features
 
 - Fetch, create, update, and delete `pages`

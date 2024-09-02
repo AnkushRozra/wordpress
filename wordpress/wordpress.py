@@ -1,8 +1,4 @@
 import requests
-import sys
-
-
-
 
 
 class Page:
